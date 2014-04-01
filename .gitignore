@@ -2,6 +2,7 @@ Eigen/
 *.o
 *.a
 *.pro.user
+*.autosave
 /Makefile*
 /*.Debug
 /*.Release

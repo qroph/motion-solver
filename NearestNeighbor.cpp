@@ -141,7 +141,7 @@ void NearestNeighborList::print(std::ostream& out)
 
 
 /*****************************************************************************/
-/* NearestNeighborLSH                                                       */
+/* NearestNeighborLSH                                                        */
 /*****************************************************************************/
 
 NearestNeighborLSH::NearestNeighborLSH(): NearestNeighbor(),
