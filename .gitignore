@@ -1,0 +1,9 @@
+Eigen/
+*.o
+*.a
+*.pro.user
+/Makefile*
+/*.Debug
+/*.Release
+debug/
+release/
